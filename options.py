@@ -5,7 +5,8 @@ options = [
                   message="What do you want to?",
                   choices=['Download YouTube Video',
                            'Download YouTube Playlist',
-                           'Get YouTube Video Info'],
+                           'Get YouTube Video Info',
+                           'Quit'],
                   ),
 ]
 
