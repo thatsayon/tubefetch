@@ -1,0 +1,14 @@
+blessed==1.20.0
+editor==1.6.5
+ffmpeg-python==0.2.0
+future==0.18.3
+inquirer==3.2.1
+pyfiglet==1.0.2
+pytube==15.0.0
+readchar==4.0.5
+runs==1.2.0
+six==1.16.0
+termcolor==2.4.0
+wcwidth==0.2.13
+xmod==1.8.1
+yaspin==3.0.1
